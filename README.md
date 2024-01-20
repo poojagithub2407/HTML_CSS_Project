@@ -1,4 +1,4 @@
-# Tribute to A.P.J Abdul Kalam
+# Project 1: Tribute to A.P.J Abdul Kalam
 
 ## Project Description
 
@@ -16,7 +16,4 @@ This project is a tribute website dedicated to A.P.J Abdul Kalam, the Missile Ma
 - HTML
 - CSS
 
-------------------------------------------------------------------
-
-
-
+---

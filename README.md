@@ -17,3 +17,22 @@ This project is a tribute website dedicated to A.P.J Abdul Kalam, the Missile Ma
 - CSS
 
 ---
+# Job Application Form - Web
+
+## Project Description
+
+This project is a web-based job application form designed for easy and efficient submission of candidate details. The form includes essential fields such as personal information, job role selection, and resume upload.
+
+### Features
+
+- Clean and user-friendly interface.
+- Comprehensive form fields covering personal and job-related details.
+- Job role selection with predefined options.
+- File upload feature for resumes.
+
+
+### Technologies Used
+
+- HTML
+- CSS
+

@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background: #e5e5fd; /* Replace "color" with an actual color code or name */
+  min-height: 100vh;
+  border: 10px solid #1d1e4c;
+}
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.image-container {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.top-selection {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.top-selection h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #1d1e4c;
+  text-transform: uppercase;
+}
+.top-selection h4 {
+  text-align: end;
+  font-size: 30px;
+}
+.about-selection {
+  margin-top: 50px;
+}
+.about-selection h2 {
+  font-size: 50;
+  font-weight: 400px;
+  margin-bottom: 20px;
+}
+
+.about-selection p {
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 1.2px;
+  text-align: justify;
+}
+.biography-section {
+  margin: 50px 0;
+}
+
+.biography-section h3 {
+  margin-bottom: 20px;
+}
+.biography-section ul {
+  margin-left: 50px;
+}
+
+.biography-section li{
+  margin-bottom: 15px;
+}
+
+footer{
+  margin:50px 0;
+}
+footer P{
+  text-align: end;
+}
